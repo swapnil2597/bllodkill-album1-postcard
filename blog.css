@@ -144,7 +144,12 @@ p {
 }
 
 hr {
-    background: rgb(204, 15, 15);
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid rgb(129, 124, 124);
+    margin: 1em 0;
+    padding: 0;
 }
 
 h1,
